@@ -6,7 +6,7 @@
 A modern, responsive personal portfolio website showcasing my skills, projects, education, and experience as an aspiring Software Engineer.
 
 🌐 **Live Website:** https://your-netlify-url.netlify.app  
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin-profile  
+💼 **LinkedIn:** https://www.linkedin.com/in/rushikesh-patil-1178b6270/  
 💻 **GitHub:** https://github.com/rushikeshpatil286
 
 ---
