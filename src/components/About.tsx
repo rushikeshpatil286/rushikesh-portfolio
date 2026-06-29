@@ -134,7 +134,7 @@ const About = () => {
                   <div className="w-5/12">
                     <div className="card-tech rounded-xl p-6 hover-lift transition-smooth">
                       <h4 className="text-xl font-semibold text-secondary mb-2">MCA Completed</h4>
-                      <p className="text-muted-foreground">Trinity Academy - Expected 2026</p>
+                      <p className="text-muted-foreground">Trinity Academy 2026</p>
                       <p className="text-sm text-muted-foreground mt-2">
                         Advanced computer applications with focus on emerging technologies
                       </p>
