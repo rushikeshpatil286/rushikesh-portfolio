@@ -168,7 +168,7 @@ Upload the generated `dist` folder to Netlify or connect the GitHub repository f
 
 📧 Email: patilrushikesh1983@gmail.com
 
-💼 LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rushikesh-patil-1178b6270/)
+💼 LinkedIn: https://www.linkedin.com/in/rushikesh-patil-1178b6270/  
 
 💻 GitHub: https://github.com/rushikeshpatil286
 
